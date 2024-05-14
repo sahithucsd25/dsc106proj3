@@ -56,3 +56,9 @@ input {
 .legend {
 	margin: 20px;
 }
+
+.label {
+  font-weight: 300;
+  text-anchor: middle;
+  font-size: 12px;
+}
